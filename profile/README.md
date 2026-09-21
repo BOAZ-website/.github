@@ -28,5 +28,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-68CBEC?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-68CBEC?style=for-the-badge&logo=awscodedeploy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-68CBEC?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/>
