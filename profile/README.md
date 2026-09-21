@@ -2,7 +2,8 @@
 
 > 국내 최초 빅데이터 연합동아리 BOAZ를 위한 서비스를 만드는 Product & 서비스운영팀 Organization 입니다.
 
-<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/be5a1984-2108-46dd-8cbd-180f8cef6e7b" />
+<img width="2056" height="765" alt="Codex 이미지 2026년 9월 21일 오후 11_44_01" src="https://github.com/user-attachments/assets/b3809ac7-190d-4427-84e6-634e1ab63a5b" />
+
 
 ## Repositories
 
