@@ -1,4 +1,4 @@
-# BOAZ Tech 🩵
+## BOAZ Tech 🩵
 
 <img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/be5a1984-2108-46dd-8cbd-180f8cef6e7b" />
 
