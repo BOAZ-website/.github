@@ -1,8 +1,8 @@
-# BOAZ Website
+# BOAZ Tech 🩵
+
+<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/be5a1984-2108-46dd-8cbd-180f8cef6e7b" />
 
 > 국내 최초 빅데이터 연합동아리 BOAZ를 위한 서비스를 만드는 Product & 서비스운영팀 Organization 입니다.
-
-BOAZ 공식 홈페이지(bigdataboaz.com)와 내부 프로덕트, 그리고 이를 뒷받침하는 AWS 인프라를 직접 만들고 운영합니다.
 
 ## Repositories
 
